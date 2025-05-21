@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there I'm Kevin 👋
 
-I'm Kevin, a Software Engineer
+![](cat-wizard.gif)
 
-- ⭐ I’m currently passionate about AI and all things in the modern JS ecosystem
-- 🌱 I'm currently learning Next.js
+I enjoy learning new technologies and building highly performant applications
+
+⭐ I’m currently passionate about AI and all things in the modern JS ecosystem
+
+🌱 I'm currently learning Next.js
 
 <!--
 **k-dang/k-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
