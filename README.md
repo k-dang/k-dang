@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Kevin, a Software Engineer
+
+- ⭐ I’m currently passionate about AI and all things in the modern JS ecosystem
+- 🌱 I'm currently learning Next.js
+
 <!--
 **k-dang/k-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
