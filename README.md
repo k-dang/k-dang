@@ -2,7 +2,7 @@
 
 ![](cat-wizard.gif)
 
-Passionate about exploring new and emerging technologies, I thrive on continuous learning and keeping up with the latest tools and frameworks.
+Hey there! I'm a software developer from Toronto who loves diving into new technologies and experimenting with modern frameworks.
 
 ⭐ I’m currently passionate about AI and all things in the modern JS ecosystem
 
