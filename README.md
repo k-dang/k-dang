@@ -1,21 +1,20 @@
-## Hi there I'm Kevin 👋
+# Hi, I’m Kevin 👋 
 
 ![](cat-wizard.gif)
 
-I'm a software developer from Toronto who loves diving into new technologies and experimenting with modern frameworks.
+**Senior Software Engineer** • Toronto, Canada
 
-I have experience in
- - c#
- - python
- - typescript / javascript
- - react
- - react native
+[My Portfolio Site](https://k-dang.github.io/) | [LinkedIn](https://www.linkedin.com/in/kdang1/) | 📫 dangkevin12@gmail.com
+
+## 🚀 About Me
+
+I’m a passionate software engineer with 6+ years of experience building full-stack applications and machine learning systems. 
+
+Skilled in C#, Python, TypeScript, JavaScript, React and more — I take pride in clean, maintainable code and thoughtful architecture.
 
 ⭐ I’m currently passionate about AI and all things in the modern JS ecosystem
 
 🌱 I'm currently learning Next.js and the AI sdk
-
-📫 How to reach me: dangkevin12@gmail.com
 
 <!--
 **k-dang/k-dang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
